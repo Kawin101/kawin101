@@ -1,6 +1,6 @@
 ![kawin101's github stats](https://github-readme-stats.vercel.app/api?username=kawin101&show_icons=true)
 
-Nice to meet you, I'm a vegetarian should dont invite me eat grilled pork, My name is Mr. Kawinphop Chomnikorn. Can call me Green.
+Nice to meet you. I'm a vegetarian. My name is Mr. Kawinphop Chomnikorn. You can call me Green.
 
 ## Contact
 
