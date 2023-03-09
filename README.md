@@ -7,5 +7,3 @@ Nice to meet you. I'm a study Computer and Information Science. My name is Mr. K
 Website : https://kawin101.github.io
 
 LinkedIn : https://www.linkedin.com/in/kawinphop/
-
-Location: I am from Thailand
