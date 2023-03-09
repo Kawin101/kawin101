@@ -1,6 +1,6 @@
 ![kawin101's github stats](https://github-readme-stats.vercel.app/api?username=kawin101&show_icons=true)
 
-Who you are? I'm Software Developer.
+* Software Developer.
 Nice to meet you. I'm a student majoring in Computer and Information Science. 
 
 ## Contact
