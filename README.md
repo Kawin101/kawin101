@@ -1,7 +1,7 @@
 ![kawin101's github stats](https://github-readme-stats.vercel.app/api?username=kawin101&show_icons=true)
 ## Bio
 I'm a third year student majoring in Computer and Information Science. 
-* > I don't know what i do best? but I know I can do anything on math well! (Autor: kawin101, 2:56 AM. 3-10-2023)
+* > I don't know what i do best? but I know I can do anything on math base! (Autor: kawin101, 2:56 AM. 3-10-2023)
 * > " Everything stands easy when you do it Every Day! "
 
 ## Contact
