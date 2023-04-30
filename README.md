@@ -1,4 +1,3 @@
-![Kawin101's github stats](https://github-readme-stats.vercel.app/api?username=kawin101&show_icons=true)
 [![Kawin101's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawin101)](https://github.com/anuraghazra/github-readme-stats)
 ## Bio
 I'm the third year student majoring in Computer and Information Science. 
