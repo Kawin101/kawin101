@@ -1,5 +1,5 @@
 [![Kawin101's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawin101)](https://github.com/anuraghazra/github-readme-stats)
-![Kawin101's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawin101&show_icons=true&theme=radical)
+![Kawin101's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawin101&show_icons=true&theme=dark)
 ## Bio
 I'm the third year student majoring in Computer and Information Science. 
 * > I don't know what i do best? but I know I can do anything on math base! (Author: kawin101, 3-12-2023)
