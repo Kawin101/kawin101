@@ -6,7 +6,7 @@ I'm the third year student majoring in Computer and Information Science.
 * > " Everything stands easy when you do it Every Day! "
 
 ## Skill
-* > (Desktop) : Java Application [100%] , Python Application [45%]
+* > (Desktop) : Java Application [100%] , Python Application [95%]
 * > Mobile Application (Flutter) [80%]
 * > Web Application (Desktop&Mobile) [60%] 
 
