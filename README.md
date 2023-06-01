@@ -6,11 +6,6 @@ I'm the third year student majoring in Computer and Information Science.
 * > " Everything stands easy when you do it Every Day! "
 * > I wanna make it to be done useful.
 
-## Skill
-* > (Desktop) : Java Application [100%] , Python Application [95%]
-* > Mobile Application (Flutter) [80%]
-* > Web Application (Desktop&Mobile) [60%] 
-
 ## Contact
 
 Website : https://kawin101.github.io
