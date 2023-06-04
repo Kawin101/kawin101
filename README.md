@@ -2,9 +2,7 @@
 
 ## Bio
 I'm the third year student majoring in Computer and Information Science. 
-* > I don't know what i do best? but I know I can do anything on math base! (Author: kawin101, 3-12-2023)
-* > " Everything stands easy when you do it every day! "
-* > I wanna make it to be done and useful.
+* > Smart work is not hard.
 
 ## Contact
 
