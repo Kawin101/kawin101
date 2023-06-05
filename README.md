@@ -2,7 +2,7 @@
 
 ## Bio
 I'm the third year student majoring in Computer and Information Science. 
-Smart work is not hard.
+- Smart work is not hard.
 
 ## Contact
 
