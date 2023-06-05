@@ -11,3 +11,5 @@ I'm the third year student majoring in Computer and Information Science.
 **Email :** 25kawinphop@gmail.com
 
 **LinkedIn :** https://www.linkedin.com/in/kawinphop/
+
+[Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
