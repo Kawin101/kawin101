@@ -6,8 +6,8 @@ I'm the third year student majoring in Computer and Information Science.
 
 ## Contact
 
-Website : https://kawin101.github.io
+**Website :** https://kawin101.github.io
 
-Email : 25kawinphop@gmail.com
+**Email :** 25kawinphop@gmail.com
 
-LinkedIn : https://www.linkedin.com/in/kawinphop/
+**LinkedIn :** https://www.linkedin.com/in/kawinphop/
