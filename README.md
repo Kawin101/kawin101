@@ -1,5 +1,3 @@
-![Kawin101's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawin101&show_icons=true&bg_color=00000000)
-
 ## Bio
 I'm the third year student majoring in Computer and Information Science. 
 - Smart work is not hard.
