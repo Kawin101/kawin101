@@ -1,5 +1,5 @@
 ## Bio
-I'm the fourth year student majoring in Computer and Information Science. 
+4th student of Computer and Information Science. 
 - Smart work is not hard.
 
 ## Contact
