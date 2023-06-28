@@ -1,5 +1,5 @@
 ## Bio
-4th student of Computer and Information Science. 
+The senior student of Computer and Information Science.
 - Smart work is not hard.
 
 ## Contact
