@@ -1,6 +1,6 @@
 ## Concept
-A man with Math on the small point. 
-At the moment, I focus on a mobile app.
+A man with the Math on very small point. 
+At the moment, I focus a mobile app.
 
 ## Network
 
