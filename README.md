@@ -1,7 +1,6 @@
 ## Concept
-A man with the Math on very small point. 
-At the moment, I focus a mobile app.
-
+Science, Engineer, Technology and Business
+\n I build for this time, I read for myself, I ready to build somethings work.
 ## Network
 
 **Website:** https://kawin101.github.io
