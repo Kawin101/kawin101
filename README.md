@@ -1,6 +1,6 @@
 ## Concept
-Science, Engineer, Technology and Business
-\n I build for this time, I read for myself, I ready to build somethings work.
+* Science, Engineer, Technology and Business
+* I build for this time, I read for myself, I ready to build somethings work.
 ## Network
 
 **Website:** https://kawin101.github.io
