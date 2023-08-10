@@ -1,4 +1,5 @@
 ## Concept
+* Power of Imagine
 * Start small and do it for long time to go.
 * Science, Engineer, Technology and Business
 * I build for this time, I read for myself, I ready to build somethings work.
