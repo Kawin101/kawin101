@@ -1,6 +1,7 @@
 # Good idea!
 I'm Kawin, a software developer and data analysis living in Thailand. \
 The senior student in computer science and information and from Khon Kaen University. \
+A Organic Farming and Solar Farm connected with the internet. \
 **Keywords**: software development and applied mathematics
 
 # Links
