@@ -1,6 +1,6 @@
 # Good idea!
-I'm Kawin, a software developer and data analysis living in Nong Khai, Thailand. \
-The senior student majoring in computer and information science. Nong Khai Campus, Khon Kaen University. \
+I'm Kawin, a software developer and data analysis living in Thailand. \
+The senior student in computer science and information and from Khon Kaen University. \
 **Keywords**: software development and applied mathematics
 
 # Links
