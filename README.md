@@ -9,7 +9,3 @@ The senior student majoring in computer and information science. Nong Khai Campu
 **LinkedIn:** https://www.linkedin.com/in/kawinphop/ \
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawin101&layout=compact)
-
-(https://github.com/anuraghazra/github-readme-stats)
