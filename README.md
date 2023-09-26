@@ -1,6 +1,6 @@
 # Good idea!
 I'm Kawin, a student and software developer living in Thailand. \
-I study at Khon Kaen University since 2020 with a degree in computer and information sciences. 
+I study at Khon Kaen University since 2020 with a degree in Computer and Information Sciences. 
 
 # Links
 **Website:** https://kawin101.github.io \
