@@ -9,6 +9,6 @@ The senior student majoring in computer and information science. Nong Khai Campu
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawin101&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawin101&layout=compact)
 
-[Docs(https://github.com/anuraghazra/github-readme-stats)]
+![Docs](https://github.com/anuraghazra/github-readme-stats)
