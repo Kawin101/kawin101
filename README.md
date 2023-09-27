@@ -1,8 +1,8 @@
 # Good idea!
-I'm Kawin, a software developer and data analysis living in Thailand. \
-The senior student in computer science and information and from Khon Kaen University. \
-A Organic Farming and Solar Farm connected with the internet. \
-**Keywords**: software development and applied mathematics
+I'm Kawin, a software engineer living in Thailand. \
+I am a senior computer science and information technology student at Khon Kaen University. \
+I am interested in organic farming and solar farms connected to the internet. \
+My keywords are **software development** and **applied mathematics**.
 
 # Links
 **Website:** https://kawin101.github.io \
