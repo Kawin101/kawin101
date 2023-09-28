@@ -1,7 +1,7 @@
-# Good idea!
-I'm Kawin, a software engineer living in Thailand. \
-I am a senior computer science and information technology student at Khon Kaen University. \
-I am interested in software development and applied mathematics. 
+# What's up?
+I'm Kawin, a senior student and software engineer living in Thailand. \
+I'm studying computer science and information technology at Khon Kaen University. \
+I'm interested in software development and applied mathematics.
 
 # Links
 Website: https://kawin101.github.io \
