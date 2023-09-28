@@ -1,7 +1,7 @@
 # Hello!
 I'm Kawin, a senior student and software engineer living in Nong Khai, Thailand. \
 I'm studying computer science and information technology at Khon Kaen University. \
-I'm interested in software development and applied mathematics.
+I'm interested in software development and applied mathematics. \
 and My challenge is in organic farming and solar farms connected to the internet.
 # Links
 Website: https://kawin101.github.io \
