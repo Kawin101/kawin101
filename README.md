@@ -1,4 +1,5 @@
-# Let's me introduct myself
+# Hello!
+> Let me introduce myself. 
 I'm Kawin, a senior student and software engineer living in Thailand. \
 I'm studying computer science and information technology at Khon Kaen University. \
 I'm interested in software development and applied mathematics.
