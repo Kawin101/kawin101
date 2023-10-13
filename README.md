@@ -13,7 +13,7 @@ LinkedIn: https://www.linkedin.com/in/kawin101/
 :aerial_tramway:	:airplane:	:anchor:	\
 :motorcycle:	:derelict_house:	:beach_umbrella:	:national_park:	\
 :tea:	:shrimp:	:rice_ball:	:	:bento:	:curry:	:ramen:	:green_salad:	:sandwich:	:broccoli:	:banana:	\
-:merman:	:mage_man:	:technologist:	:man_technologist:	:man_student:	:student:	:handshake:	:call_me_hand:	:japanese_goblin:	\
+:merman:	:mage_man:	:technologist:	:man_technologist:	:man_student:	:student:	:handshake:	:call_me_hand:	:japanese_goblin:	
 
 #### Tools
 <p align="center">
