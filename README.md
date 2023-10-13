@@ -6,6 +6,9 @@ Website: https://kawin101.github.io \
 Email: 25kawinphop@gmail.com \
 LinkedIn: https://www.linkedin.com/in/kawin101/
 
+# Roles
+UX/UI Desinger | Software Designer and Developer | Chatbot Developer [LINE Chatbot, Botnoi Chatbot, Facebook Messenger Chatbot] | App Script and App Sheet
+
 #### Persona
 :earth_asia:	:thailand:	:computer:	:desktop_computer:	:headphones:	\
 :basketball_man: :basketball:	:diving_mask: :football:	:swimming_man:	:mountain_biking_man:	:man_playing_water_polo:	\
