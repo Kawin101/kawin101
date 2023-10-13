@@ -7,7 +7,7 @@ Email: 25kawinphop@gmail.com \
 LinkedIn: https://www.linkedin.com/in/kawin101/
 
 # Roles
-UX/UI Desinger | Software Design and Developer \
+UX/UI Designer | Software Design and Developer \
 Chatbot Developer [LINE Chatbot, Botnoi Chatbot, Facebook Messenger Chatbot] | App Script and App Sheet 
 
 #### Persona
