@@ -11,7 +11,7 @@ UX/UI Designer | Software Design and Developer \
 Chatbot Developer [LINE Chatbot, Botnoi Chatbot, Facebook Messenger Chatbot] | App Script and App Sheet 
 
 #### Persona
-:earth_asia:	:thailand:	:computer:	:desktop_computer:	:headphones:	\
+:earth_asia: :thailand:	:computer:	:desktop_computer:	:headphones:	\
 :basketball_man: :basketball:	:diving_mask: :football:	:swimming_man:	:mountain_biking_man:	:man_playing_water_polo:	\
 :rainbow:	:ocean:	:sun_behind_rain_cloud:	:last_quarter_moon_with_face:	\
 :aerial_tramway:	:airplane:	:anchor:	\
