@@ -23,7 +23,7 @@ Chatbot Developer [LINE Chatbot, Botnoi Chatbot, Facebook Messenger Chatbot] | A
 ### Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,github,bootstrap,py,django,figma,java,js,jquery,linux,nodejs,mongodb,php,mysql,postman" />
+    <img src="https://skillicons.dev/icons?i=linux,github,bootstrap,py,django,figma,java,js,jquery,nodejs,mongodb,php,mysql,postman" />
   </a>
 </p>
 
