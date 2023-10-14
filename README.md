@@ -28,9 +28,6 @@ Chatbot Developer [LINE Chatbot, Botnoi Chatbot, Facebook Messenger Chatbot] | A
 </p>
 
 #### Static
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kawin101" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kawin101&layout=compact&langs_count=8&card_width=320" />
 </a>
