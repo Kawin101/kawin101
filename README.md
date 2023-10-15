@@ -20,10 +20,17 @@ Chatbot Developer [LINE Chatbot, Botnoi Chatbot, Facebook Messenger Chatbot] | A
 :tea:	:shrimp:	:rice_ball:	:	:bento:	:curry:	:ramen:	:green_salad:	:sandwich:	:broccoli:	:banana:	\
 :merman:	:mage_man:	:technologist:	:man_technologist:	:man_student:	:student:	:handshake:	:call_me_hand:	:japanese_goblin:	
 
-### Tools
+### Active Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,github,bootstrap,py,django,figma,java,html,js,jquery,nodejs,mongodb,php,mysql,postman" />
+    <img src="https://skillicons.dev/icons?i=linux,github,bootstrap,py,django,figma,html,js,jquery,php,mysql,postman" />
+  </a>
+</p>
+
+### Inactive Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs,unity,bash,raspberrypi,fortran,flutter,dart,firebase,angular,arduino,nodejs,mongodb," />
   </a>
 </p>
 
