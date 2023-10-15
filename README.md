@@ -8,8 +8,8 @@ LinkedIn: [https://www.linkedin.com/in/kawin101/](https://www.linkedin.com/in/ka
 Mastodon: [@kawin101@mastodon.social](https://mastodon.social/@kawin101)
 
 ### Roles
-UX/UI Designer, Software Design and Developer \
-Chatbot Developer [LINE Chatbot, Botnoi Chatbot, Facebook Messenger Chatbot] or App Script and App Sheet 
+UX/UI Designer | Software Design and Developer \
+Chatbot Developer [LINE Chatbot, Botnoi Chatbot, Facebook Messenger Chatbot] | App Script and App Sheet 
 
 ### Persona
 :earth_asia: :thailand:	:computer:	:desktop_computer:	:headphones:	\
