@@ -30,7 +30,7 @@ Chatbot Developer [LINE Chatbot, Botnoi Chatbot, Facebook Messenger Chatbot] | A
 ### Inactive Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,unity,bash,raspberrypi,fortran,flutter,dart,firebase,angular,arduino,nodejs,mongodb," />
+    <img src="https://skillicons.dev/icons?i=java,cs,unity,bash,raspberrypi,fortran,flutter,dart,firebase,angular,arduino,cpp,nodejs,mongodb," />
   </a>
 </p>
 
