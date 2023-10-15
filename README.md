@@ -23,13 +23,11 @@ Chatbot Developer [LINE Chatbot, Botnoi Chatbot, Facebook Messenger Chatbot] | A
 ### Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,github,bootstrap,py,django,figma,java,js,jquery,nodejs,mongodb,php,mysql,postman" />
+    <img src="https://skillicons.dev/icons?i=bash,linux,github,bootstrap,py,django,figma,java,js,jquery,nodejs,mongodb,php,mysql,postman" />
   </a>
 </p>
 
 ### Static
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kawin101&layout=compact&langs_count=8&card_width=320" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawin101&hide_progress=true)
 
 .[emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) .[icons](https://github.com/tandpfun/skill-icons) .[stats](https://github.com/anuraghazra/github-readme-stats#compact-language-card-layout)
