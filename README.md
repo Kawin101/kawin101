@@ -22,13 +22,9 @@ Software Engineer. Chatbot Developer (Botnoi Chatbot, LINE and Facebook Messenge
 ### Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <p>Active</p></p><img src="https://skillicons.dev/icons?i=bash,linux,github,bootstrap,py,django,figma,php,mysql" />
+    <p>Active</p></p><img src="https://skillicons.dev/icons?i=bash,linux,github,bootstrap,py,django,figma,php,mysql,html,js,nodejs,mongodb" />
   </a>
-  <br>
-  <a href="https://skillicons.dev">
-    <p>Inactive</p></p><img src="https://skillicons.dev/icons?i=java,cs,cpp,js,jquery,nodejs,mongodb" />
-  </a>
-</p>
+ </p>
 
 ### Static
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawin101&hide_progress=true)
