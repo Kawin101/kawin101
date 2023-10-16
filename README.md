@@ -22,7 +22,11 @@ Software Engineer. Chatbot Developer (Botnoi Chatbot, LINE and Facebook Messenge
 ### Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,linux,github,bootstrap,py,django,figma,php,mysql" />
+    <p>Active</p></p><img src="https://skillicons.dev/icons?i=bash,linux,github,bootstrap,py,django,figma,php,mysql" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <p>Inactive</p></p><img src="https://skillicons.dev/icons?i=java,cs,cpp,js,jquery,nodejs,mongodb" />
   </a>
 </p>
 
