@@ -29,4 +29,4 @@ Software Engineer. Chatbot Developer (Botnoi Chatbot, LINE and Facebook Messenge
 ### Static
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawin101&hide_progress=true)
 
-.[emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) .[icons](https://github.com/tandpfun/skill-icons) .[stat](https://github.com/anuraghazra/github-readme-stats#compact-language-card-layout)
+.[emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) .[icons](https://github.com/tandpfun/skill-icons) .[static](https://github.com/anuraghazra/github-readme-stats#compact-language-card-layout)
