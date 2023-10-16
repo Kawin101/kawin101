@@ -1,4 +1,4 @@
-# Hi there!
+# Hi there! :call_me_hand:	
  I'm Green, a senior student and software engineer. I'm studying computer science and information technology at Khon Kaen University. I'm interested in software development and applied mathematics. My challenge is in organic farming and solar farms connected to the internet.
 
 # Links
@@ -8,7 +8,7 @@ LinkedIn: [https://www.linkedin.com/in/kawin101/](https://www.linkedin.com/in/ka
 Mastodon: [@kawin101@mastodon.social](https://mastodon.social/@kawin101)
 
 ### Roles
-Software Engineer. Chatbot Developer (Botnoi Chatbot, LINE and Facebook Messenger Chatbot).
+Software Engineer and Chatbot Developer (Botnoi Chatbot, LINE and Facebook Messenger Chatbot).
 
 ### Persona
 :earth_asia: :thailand:	:computer:	:desktop_computer:	:headphones:	\
