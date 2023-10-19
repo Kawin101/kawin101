@@ -7,9 +7,6 @@ Email: [25kawinphop@gmail.com](25kawinphop@gmail.com) \
 LinkedIn: [https://www.linkedin.com/in/kawin101/](https://www.linkedin.com/in/kawin101/) \
 Mastodon: [@kawin101@mastodon.social](https://mastodon.social/@kawin101)
 
-### Roles
-Software Engineer.
-
 ### Persona
 :earth_asia: :thailand:	:computer:	:desktop_computer:	:headphones:	\
 :basketball_man: :basketball:	:diving_mask: :football:	:swimming_man:	:mountain_biking_man:	:man_playing_water_polo:	\
