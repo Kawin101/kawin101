@@ -8,7 +8,7 @@ LinkedIn: [https://www.linkedin.com/in/kawin101/](https://www.linkedin.com/in/ka
 Mastodon: [@kawin101@mastodon.social](https://mastodon.social/@kawin101)
 
 ### Roles
-Software Engineer and Chatbot Developer (Botnoi Chatbot, LINE and Facebook Messenger Chatbot).
+Software Engineer.
 
 ### Persona
 :earth_asia: :thailand:	:computer:	:desktop_computer:	:headphones:	\
