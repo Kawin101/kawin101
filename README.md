@@ -1,4 +1,4 @@
-# Hi there! :call_me_hand:	
+# Hiya! :call_me_hand:	
  I'm Green, a senior student and software engineer. I'm studying computer science and information technology at Khon Kaen University. I'm interested in software development and applied mathematics. My challenge is in organic farming and solar farms connected to the internet.
 
 # Links
@@ -27,3 +27,5 @@ Mastodon: [@kawin101@mastodon.social](https://mastodon.social/@kawin101)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawin101&hide_progress=true)
 
 .[emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) .[icons](https://github.com/tandpfun/skill-icons) .[static](https://github.com/anuraghazra/github-readme-stats#compact-language-card-layout)
+
+<p><b>See ya!</b></p>
