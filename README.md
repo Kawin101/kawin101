@@ -7,7 +7,7 @@ Website: [https://kawin101.github.io](https://kawin101.github.io) \
 Mastodon: [@kawin101@mastodon.social](https://mastodon.social/@kawin101)
 
 ### Persona
-:thailand: :computer:	:desktop_computer:	:headphones:	| :basketball:	:diving_mask: :swimming_man: 
+:computer:	:desktop_computer:	:headphones:	| :basketball:	:diving_mask: :swimming_man: 
 :rainbow:	:ocean:	:sun_behind_rain_cloud:	:last_quarter_moon_with_face:	| :motorcycle:	:derelict_house:	:beach_umbrella:	:national_park:	\
 :rice_ball:	:bento:	:curry:	:ramen:	:green_salad:	:sandwich:	:broccoli:	:banana:	| :merman:	:mage_man:	:technologist:	:man_technologist:	:man_student:	:student:	:handshake:	:call_me_hand:	:japanese_goblin:	
 
