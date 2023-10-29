@@ -4,8 +4,6 @@ I'm interested in software development and applied mathematics. My challenge is 
 
 # Links
 Website: [https://kawin101.github.io](https://kawin101.github.io) \
-Email: [25kawinphop@gmail.com](25kawinphop@gmail.com) \
-LinkedIn: [https://www.linkedin.com/in/kawin101/](https://www.linkedin.com/in/kawin101/) \
 Mastodon: [@kawin101@mastodon.social](https://mastodon.social/@kawin101)
 
 ### Persona
