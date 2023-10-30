@@ -12,7 +12,7 @@ LinkedIn: [linkedin.com/in/kawin101](https://www.linkedin.com/in/kawin101)
 :rainbow:	:ocean:	:sun_behind_rain_cloud:	:last_quarter_moon_with_face:	| :motorcycle:	:derelict_house:	:beach_umbrella:	:national_park:	\
 :rice_ball:	:bento:	:curry:	:ramen:	:green_salad:	:sandwich:	:broccoli:	:banana:	| :merman:	:mage_man:	:technologist:	:man_technologist:	:man_student:	:student:	:handshake:	:call_me_hand:	:japanese_goblin:	
 
-### Ability Status
+### Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,linux,github,bootstrap,py,django,figma,php,mysql,html,js,nodejs,mongodb"/>
