@@ -3,8 +3,9 @@ I'm Green, a senior student and software engineer. I'm studying computer science
 I'm interested in software development and applied mathematics. My challenge is in organic farming and solar farms connected to the internet. 
 
 # Links
-Website: [https://kawin101.github.io](https://kawin101.github.io) \
-Mastodon: [@kawin101@mastodon.social](https://mastodon.social/@kawin101)
+Website: [kawin101.github.io](https://kawin101.github.io) \
+Mastodon: [@kawin101@mastodon.social](https://mastodon.social/@kawin101) \
+LinkedIn: [linkedin.com/in/kawin101](https://www.linkedin.com/in/kawin101)
 
 ### Persona
 :computer:	:desktop_computer:	:headphones:	| :basketball:	:diving_mask: :swimming_man: 
