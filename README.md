@@ -15,7 +15,7 @@ LinkedIn: [linkedin.com/in/kawin101](https://www.linkedin.com/in/kawin101)
 ### Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,linux,github,bootstrap,py,django,figma,php,mysql,html,js,nodejs,mongodb"/>
+    <img src="https://skillicons.dev/icons?i=cpp,arduino,bash,linux,github,bootstrap,py,django,figma,php,mysql,html,js,nodejs,mongodb"/>
   </a>
  </p>
 
