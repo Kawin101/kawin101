@@ -1,5 +1,5 @@
 # Hi! :call_me_hand:	
-My name is Green, a senior student and software engineer. I am studying computer and information science at Khon Kaen University. \
+My name is Green, a senior student and software engineer. I am studying Computer Science and Information Technology at Khon Kaen University. \
 I am interested in software development and applied mathematics. My top skills are WEB, MOBILE, IOT, and CHATBOT development. \
 My challenges are in organic farming and connecting solar farms to the internet.
 
