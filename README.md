@@ -1,7 +1,7 @@
 ### Hi 👋
 
 - UX/UI Designer
-- Web Development
+- Web Development & Responsive web design.
 - E-commerce
 - LINE Chatbot
 - IT Consultant
