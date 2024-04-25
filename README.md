@@ -1,7 +1,9 @@
-### Hi 👋
+### Hi Muggle 👋
 
 - UX/UI Designer
 - Web Development
 - E-Commerce
 - LINE Chatbot
-- Sales & Marketing
+- Full-Stack Developer
+
+... kawinphop.ch@kkumil.com
