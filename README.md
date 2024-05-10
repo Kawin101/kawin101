@@ -26,4 +26,6 @@ I studied at Khon Kaen University and graduated in 2023 with a degree in Compute
 
 - OS: Ubuntu, Linux Mint, Debian, Raspberry Pi OS, Windows 10 & 11
 
-- Software Tools: Microsoft Ofiice, Microsoft Power Query, Microsoft Power BI, Canva, Slack, Discord, GitHub, Google Meet, Zoom, VS Code, Microsoft Visual Studio, Android Studio.
+- Software Tools: Microsoft Ofiice, Microsoft Power Query, Microsoft Power BI, Canva, Slack, Discord, GitHub, Google Meet, Zoom, VS Code, Microsoft Visual Studio, Android Studio, Postman, Git Bash.
+
+- Others: Google Map APIs, Google Tage Manager, Google Analysis, jQuery, Ajax, Bootstrap, ChatGPT, Gemini, Botnoi Chatbot, LINE Chatbot.
