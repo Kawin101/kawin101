@@ -7,7 +7,7 @@ Email: kawinphop.ch@kkumil.com | [Instagram](https://www.instagram.com/kawin101x
 I studied at Khon Kaen University and graduated in 2023 with a degree in Computer and Information Science. I've been working at IBOTNOI COMPANY LIMITED, for 3 months as a UX/UI Designer Internship. I have 3 months of experience in User interface design and User experience design.
 
 ### Skills
-Programming: C, C++, C#, Java, JavaScript, TypeScript,Python, PHP, HTML & CSS. \
+Programming: C, C++, C#, Java, JavaScript, TypeScript, Python, PHP, HTML & CSS. \
 Database: MySQL, MongoDB, SQLite, Firebase. \
 Web Technology: Python (Django), TypeScript (Angular), Express (Node.js), PHP (Laravel). \
 Mobile Technology: Flutter & Dart. \
