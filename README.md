@@ -13,4 +13,4 @@ IoT Technology: ESP8266, LEGO, Arduino, Raspberry pi, Tinkercad. \
 Game Technology: Unity 3D, Blender. \
 UI/UX Design: Figma, Wix, Wordpress. \
 Server: XAMPP, Github Actions, Mongoose. \
-OS: Ubuntu, Linux Mint, Debain, Raspberry Pi OS, Windowns 10 & 11
+OS: Ubuntu, Linux Mint, Debian, Raspberry Pi OS, Windowns 10 & 11
