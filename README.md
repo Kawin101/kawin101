@@ -12,6 +12,8 @@ I studied at Khon Kaen University and graduated in 2023 with a degree in Compute
 
 - Database: MySQL, MongoDB, SQLite, Firebase.
 
+- Desktop Technology: Apache NetBeans (Java), IntelliJ IDEA (Java), Microsoft Visual Studio (C#)
+
 - Web Technology: Python (Django), TypeScript (Angular), Express (Node.js), PHP (Laravel).
 
 - Mobile Technology: Flutter & Dart.
