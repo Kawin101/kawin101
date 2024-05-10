@@ -12,7 +12,7 @@ Database: MySQL, MongoDB, SQLite, Firebase. \
 Web Technology: Python (Django), TypeScript (Angular), Express (Node.js), PHP (Laravel). \
 Mobile Technology: Flutter & Dart. \
 IoT Technology: ESP8266, LEGO, Arduino, Raspberry pi, Tinkercad. \
-Game Technology: Unity 3D, Blender \ 
+Game Technology: Unity 3D, Blender. \
 UI/UX Design: Figma, Wix, Wordpress. \
 Server: XAMPP, Github Actions, Mongoose. \
 OS: Ubuntu, Linux Mint, Debain, Raspberry Pi OS, Windowns 10 & 11
