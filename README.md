@@ -6,7 +6,7 @@ I studied at Khon Kaen University and graduated in 2023 with a degree in Compute
 
 ### Skills
 Programming: C, C++, C#, Java, JavaScript, TypeScript, Python, PHP, HTML & CSS. \
-Database: MySQL, MongoDB, SQLite, Firebase. \
+Database: SQL, NoSQL, MySQL, MongoDB, SQLite, Firebase. \
 Web Technology: Python (Django), TypeScript (Angular), Express (Node.js), PHP (Laravel). \
 Mobile Technology: Flutter & Dart. \
 IoT Technology: ESP8266, LEGO, Arduino, Raspberry pi, Tinkercad. \
