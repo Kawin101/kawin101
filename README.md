@@ -8,7 +8,7 @@ I studied at Khon Kaen University and graduated in 2023 with a degree in Compute
 
 #### **Ready to learn a new programming language and framework!*
 
-- Programming: C, C++, Python.
+- Programming: C++, Java, Python.
 
 - Database: MySQL, MongoDB, SQLite, Firebase.
 
