@@ -1,3 +1,2 @@
-## Hi 👋
-
-Email: kawinphop.ch@kkumil.com | [Instagram](https://www.instagram.com/kawin101x/) | [LinkedIn](https://www.linkedin.com/in/kawin101/)
+## Hi Guys👋
+[Personal Website](https://kawin101.github.io/)
