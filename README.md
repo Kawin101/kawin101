@@ -6,7 +6,7 @@ I studied at Khon Kaen University and graduated in 2023 with a degree in Compute
 
 ### Skills 
 
-#### **Ready to learn a new programming language and framework!*
+#### **Up for learning a new programming language and new framework!*
 
 - Programming: C++, Java, Python.
 
